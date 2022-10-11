@@ -1,7 +1,11 @@
-# Projeto Cordel
-Projeto do cordel de Milton Duarte
-Neste pequeno projetinho, um site criado para praticar as habilidades durante o curso de HTML e CSS do Curso em Video do Prof. Gustavo Guanabara.
+<h1 align="center">Cordel de Milton Duarte</h1>
 
-- Totalmente focado em Significado e Tags Semânticas!
-- Praticamos o efeito Parallax.
-Acesse o site e veja o resultado: https://viniciuslemos93.github.io/projeto-cordel/
+Projeto de estudo para criação de Web Site com efeito Parallax.
+
+Fiz este projeto com intuito de praticar as habilidades durante o curso de HTML e CSS do Curso em Video do Prof. Gustavo Guanabara.
+
+- Focado em Tags Semânticas
+- Responsividade da página com dispositivos mobile
+- Praticamos o efeito Parallax
+
+Deploy: https://viniciuslemos93.github.io/projeto-cordel/
