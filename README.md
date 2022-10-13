@@ -15,7 +15,7 @@ Fiz este projeto com intuito de praticar as habilidades durante o curso de HTML 
 <hr>
 Deploy: https://viniciuslemos93.github.io/projeto-cordel/
 
-## Gif do resultado
+<h1 align="center">Gif do Resultado</h1>
 <div align="center">
 <img align="center" alt="Design do site" height="400" width="500" src="./imagens/resultado-cordel.gif">
 </div>
