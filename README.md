@@ -1,5 +1,5 @@
 <h1 align="center">Cordel de Milton Duarte</h1>
-
+![GitHub](https://img.shields.io/github/license/viniciuslemos93/projeto-cordel)
 Projeto de estudo para criação de Web Site com efeito Parallax.
 
 Fiz este projeto com intuito de praticar as habilidades durante o curso de HTML e CSS do Curso em Video do Prof. Gustavo Guanabara.
